@@ -1,0 +1,18 @@
+#logs
+*.log
+/log/*
+/logs/*
+
+#temporary files
+*.temp
+*.tmp
+/temp/*
+/tmp/*
+
+#build
+*.tar
+*.tar.gz
+*.zip
+build/
+dist/
+out/
