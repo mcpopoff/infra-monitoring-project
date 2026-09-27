@@ -8,6 +8,8 @@
 *.tmp
 /temp/*
 /tmp/*
+*.odt#
+.pcapng
 
 #build
 *.tar
