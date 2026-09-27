@@ -8,6 +8,7 @@
 *.tmp
 /temp/*
 /tmp/*
+*.odt#
 
 #build
 *.tar
